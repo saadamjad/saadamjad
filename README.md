@@ -20,9 +20,9 @@
 ## 🚀 About Me
 
 - 🏗️ **Founding Engineer at [ZizkaDB](https://db.zizka.ai)** — building an AI-native operational database: causal lineage (`why()`), semantic memory, live dashboards, and MCP + Python/TypeScript SDKs
-- 📱 **React Native Engineer at Washmen** — shipping mobile apps that serve **1M+ active users** across Washmen, Careem, and InstaShop
+- 📱 **React Native Engineer** — 7 years shipping mobile apps that serve **1M+ active users** across Washmen, Careem, and InstaShop
 - 🔧 Comfortable across the stack — native modules (C++/Objective-C++), CI/CD pipelines, offline-first architecture, biometric auth
-- 🌍 Based in Dubai, UAE — open to Founding/Senior Engineer roles in AI infrastructure and mobile
+- 🌍 Based in Dubai, UAE — open to Founding/Senior Engineer roles in AI infrastructure and mobile, and open to relocation
 
 ---
 
@@ -46,8 +46,9 @@
 
 **AI & Data**
 
-[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6366f1?style=for-the-badge)](https://github.com/saadamjad/ZizkaDB)
-[![AI Agents](https://img.shields.io/badge/AI_Agent_Tooling-6366f1?style=for-the-badge)](https://github.com/saadamjad/ZizkaDB)
+[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6366f1?style=for-the-badge)](https://db.zizka.ai)
+[![AI Agents](https://img.shields.io/badge/AI_Agent_Tooling-6366f1?style=for-the-badge)](https://db.zizka.ai)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/saadamjad/Langchain-AI-Agent)
 
 ---
 
@@ -55,7 +56,9 @@
 
 | Project | Description |
 |---|---|
-| [**ZizkaDB**](https://github.com/saadamjad/ZizkaDB) | AI-native operational database — causal lineage, semantic memory, MCP + Python/TypeScript SDKs. [db.zizka.ai](https://db.zizka.ai) |
+| [**ZizkaDB**](https://db.zizka.ai) | AI-native operational database — causal lineage, semantic memory, MCP + Python/TypeScript SDKs |
+| [**Langchain-AI-Agent**](https://github.com/saadamjad/Langchain-AI-Agent) | Personal assistant agent grounded in a markdown knowledge base — FastAPI + LangChain/LangGraph |
+| [**personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
 | [**saad-task**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
 | [**fast-video-player-react-native**](https://github.com/saadamjad/fast-video-player-react-native) | Buffer-optimized native video player component (C++) |
 | [**react-native-map-component**](https://github.com/saadamjad/react-native-map-component) | Reusable map component for React Native |
