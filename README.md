@@ -58,8 +58,8 @@
 |---|---|
 | [**ZizkaDB**](https://db.zizka.ai) | AI-native operational database — causal lineage, semantic memory, MCP + Python/TypeScript SDKs |
 | [**Langchain-AI-Agent**](https://github.com/saadamjad/Langchain-AI-Agent) | Personal assistant agent grounded in a markdown knowledge base — FastAPI + LangChain/LangGraph |
-| [**personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
-| [**saad-task**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
+| [**Crew-AI-personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
+| [**Biometric-based-login**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
 | [**fast-video-player-react-native**](https://github.com/saadamjad/fast-video-player-react-native) | Buffer-optimized native video player component (C++) |
 | [**react-native-map-component**](https://github.com/saadamjad/react-native-map-component) | Reusable map component for React Native |
 
