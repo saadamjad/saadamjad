@@ -58,9 +58,32 @@
 |---|---|
 | [**ZizkaDB**](https://db.zizka.ai) | AI-native operational database — causal lineage, semantic memory, MCP + Python/TypeScript SDKs |
 | [**Langchain-AI-Agent**](https://github.com/saadamjad/Langchain-AI-Agent) | Personal assistant agent grounded in a markdown knowledge base — FastAPI + LangChain/LangGraph |
-| [**Crew-AI-personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
-| [**Biometric-based-login**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
+| [**personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
+| [**saad-task**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
 | [**fast-video-player-react-native**](https://github.com/saadamjad/fast-video-player-react-native) | Buffer-optimized native video player component (C++) |
 | [**react-native-map-component**](https://github.com/saadamjad/react-native-map-component) | Reusable map component for React Native |
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadamjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="Saad Amjad's GitHub stats — commits, PRs, issues, and contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadamjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&hide=html,css" height="165" alt="Saad Amjad's most used programming languages: TypeScript, JavaScript, Python, C++" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadamjad&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%" alt="Saad Amjad's GitHub contribution streak" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-amjad-0b398116b/"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saadamjad"><img src="https://img.shields.io/badge/GitHub-saadamjad-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:saadorders315@gmail.com"><img src="https://img.shields.io/badge/Email-saadorders315-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Open to collaboration on AI agent infrastructure, developer tooling, and mobile engineering.</i></p>
