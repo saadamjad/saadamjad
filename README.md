@@ -22,7 +22,7 @@
 - 🏗️ **Founding Engineer at [ZizkaDB](https://db.zizka.ai)** — building an AI-native operational database: causal lineage (`why()`), semantic memory, live dashboards, and MCP + Python/TypeScript SDKs
 - 📱 **React Native Engineer** — 7 years shipping mobile apps that serve **1M+ active users** across Washmen, Careem, and InstaShop
 - 🔧 Comfortable across the stack — native modules (C++/Objective-C++), CI/CD pipelines, offline-first architecture, biometric auth
-- 🌍 Based in Dubai, UAE — open to Founding/Senior Engineer roles in AI infrastructure and mobile, and open to relocation
+- 🌍 Based in Karachi, Pakistan — open to relocation
 
 ---
 
