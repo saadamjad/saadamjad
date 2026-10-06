@@ -1,68 +1,26 @@
-<h1 align="center">Hi, I'm Saad 👋</h1>
+## Saad Amjad
 
-<h3 align="center">Founding Engineer @ ZizkaDB · React Native Engineer · Building AI infrastructure & mobile apps at scale</h3>
+Full-stack software engineer building infrastructure for AI agents.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,py,firebase,cpp,androidstudio,apple,git,github,githubactions,docker" height="60" alt="Tech stack icons: React, TypeScript, JavaScript, Node.js, Python, Firebase, C++, Android Studio, Apple, Git, GitHub, GitHub Actions, Docker" />
-</div>
+I'm a Founding Engineer at [ZIZKA AI](https://db.zizka.ai), where I'm the lead contributor to **[ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB)**, an open-source audit-trail database for AI agents. It records every decision an agent makes as a tamper-evident, causally linked log, with session replay, time-travel debugging and drift detection, and supports EU AI Act Article 12 record-keeping. I work across the stack, from the core API, services and database layer to the web dashboard.
 
-<div align="center">
+Before ZIZKA, I spent 7 years shipping production apps. Most recently I was at Washmen in Dubai, building web, mobile and backend features used by more than a million people through Careem and InstaShop.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-amjad-0b398116b/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadorders315@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Dubai%2C%20UAE-green?style=for-the-badge)](https://github.com/saadamjad)
-[![Open To](https://img.shields.io/badge/Open%20To-Founding%2FSenior%20Engineer%20Roles-blue?style=for-the-badge)](https://www.linkedin.com/in/saad-amjad-0b398116b/)
+### Selected work
 
-</div>
+- **[ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB)**: audit trail and observability database for AI agents. Python, TypeScript, MCP.
+- **[livekit-voice-agent](https://github.com/saadamjad/livekit-voice-agent)**: voice AI agent on LiveKit with a full speech-to-text, LLM and text-to-speech pipeline, and call tracking through ZizkaDB.
+- **[typescript-AI-agent](https://github.com/saadamjad/typescript-AI-agent)**: customer-support agent instrumented end to end with ZizkaDB, with an inspector panel for replaying its decisions.
+- **[Langchain-AI-Agent](https://github.com/saadamjad/Langchain-AI-Agent)**: the assistant behind the chat on my website. FastAPI, LangChain and LangGraph, grounded in a markdown knowledge base.
+- **[fast-video-player-react-native](https://github.com/saadamjad/fast-video-player-react-native)**: buffer-optimised native video player for React Native, written in C++.
 
----
+### Stack
 
-## 🚀 About Me
+- **AI and agents:** LangChain, LangGraph, CrewAI, LiveKit Agents, MCP, RAG
+- **Languages:** TypeScript, JavaScript, Python
+- **Backend:** Node.js, FastAPI, AWS (Lambda, SQS, SNS), Docker
+- **Frontend and mobile:** React, React Native, iOS, Android
 
-- 🏗️ **Founding Engineer at [ZizkaDB](https://db.zizka.ai)** — building an AI-native operational database: causal lineage (`why()`), semantic memory, live dashboards, and MCP + Python/TypeScript SDKs
-- 📱 **React Native Engineer** — 7 years shipping mobile apps that serve **1M+ active users** across Washmen, Careem, and InstaShop
-- 🔧 Comfortable across the stack — native modules (C++/Objective-C++), CI/CD pipelines, offline-first architecture, biometric auth
-- 🌍 Based in Karachi, Pakistan — open to relocation
+### Contact
 
----
-
-## 🛠️ Tech Stack
-
-**Mobile & Frontend**
-
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-
-**Backend & Infra**
-
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-
-**AI & Data**
-
-[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6366f1?style=for-the-badge)](https://db.zizka.ai)
-[![AI Agents](https://img.shields.io/badge/AI_Agent_Tooling-6366f1?style=for-the-badge)](https://db.zizka.ai)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/saadamjad/Langchain-AI-Agent)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [**ZizkaDB**](https://db.zizka.ai) | AI-native operational database — causal lineage, semantic memory, MCP + Python/TypeScript SDKs |
-| [**Langchain-AI-Agent**](https://github.com/saadamjad/Langchain-AI-Agent) | Personal assistant agent grounded in a markdown knowledge base — FastAPI + LangChain/LangGraph |
-| [**Crew-AI-personal-assistant**](https://github.com/saadamjad/personal-assistant) | Personal AI representative agent — FastAPI + CrewAI, grounded in a portfolio knowledge base |
-| [**Biometric-based-login**](https://github.com/saadamjad/saad-task) | React Native RSS reader — offline saves, biometric/PIN gate, CI/CD |
-| [**fast-video-player-react-native**](https://github.com/saadamjad/fast-video-player-react-native) | Buffer-optimized native video player component (C++) |
-| [**react-native-map-component**](https://github.com/saadamjad/react-native-map-component) | Reusable map component for React Native |
-
----
-
-<p align="center"><i>Open to collaboration on AI agent infrastructure, developer tooling, and mobile engineering.</i></p>
+[saadstack.com](https://saadstack.com) · [LinkedIn](https://www.linkedin.com/in/saad-amjad-0b398116b/) · contact@saadstack.com
